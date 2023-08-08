@@ -13,18 +13,17 @@ python test.py
 
 The script will process the images in the folders of "test" folder and the result will be in the "result" folder. 
 
+(The training code will be given after the acceptance of the article)
 
-You  can find the low-light construction dataset in google driven (It's coming!). 
+
 Result:
 
-![FIG](https://github.com/Chenxy875/UIRE-Net/assets/121841006/f7ea99ea-a894-4b59-8831-4cbbc022f6a5)
 ![1691492825931](https://github.com/Chenxy875/UIRE-Net/assets/121841006/f8a2fdbe-3239-4e81-a5dc-4c777290647a)
 
 
 
 
-
-
+You  can find the low-light construction dataset in google driven (It's coming!). 
 Datasets:
 ![1691492902785](https://github.com/Chenxy875/UIRE-Net/assets/121841006/814bca86-2a37-4d35-8037-b50c47d0d545)
 
