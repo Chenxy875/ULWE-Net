@@ -28,14 +28,13 @@ Datasets:
 ![1691492902785](https://github.com/Chenxy875/UIRE-Net/assets/121841006/814bca86-2a37-4d35-8037-b50c47d0d545)
 
 Backbone network:
-![FIGPIP](https://github.com/Chenxy875/UIRE-Net/assets/121841006/fa292b28-8724-44fd-8afe-c328a3093520)
+![FIGPIP](https://github.com/Chenxy875/UIRE-Net/assets/121841006/5adb48cc-2887-4e12-a5f6-e2a98926a580)
 
 Feature extraction:
 ![VGG16](https://github.com/Chenxy875/UIRE-Net/assets/121841006/b0dd90e4-0b2f-4449-b79b-ecb747c053ed)
 
 Ablation results:
 ![ablation](https://github.com/Chenxy875/UIRE-Net/assets/121841006/e6d2fd5f-fce7-409c-bdcf-0a94e9f3e050)
-
 
 <img width="1106" alt="brightness" src="https://github.com/Chenxy875/UIRE-Net/assets/121841006/e2824d09-2963-4c88-9421-116d29df93a5">
 
