@@ -40,6 +40,3 @@ Ablation results:
 
 ![ablation](https://github.com/Chenxy875/UIRE-Net/assets/121841006/40466533-6a81-48f7-9f8d-e125b3b80f86)
 
-<img width="1106" alt="brightness" src="https://github.com/Chenxy875/UIRE-Net/assets/121841006/e2824d09-2963-4c88-9421-116d29df93a5">
-
-<img width="1031" alt="COMPARE" src="https://github.com/Chenxy875/UIRE-Net/assets/121841006/dbb89115-f872-483b-8545-105362dd611d">
