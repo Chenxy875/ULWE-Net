@@ -1,4 +1,7 @@
 # UIRE-Net
+The code of Paper "Vision-based Estimation of Worker Pose in Low-Light Conditions on Construction Sites".
+
+The implementation is for non-commercial use only.
 
 # Requirements
 Python > 3.6
