@@ -18,8 +18,8 @@ The script will process the images in the folders of "test" folder and the resul
 
 Result:
 
-![1691492825931](https://github.com/Chenxy875/UIRE-Net/assets/121841006/f8a2fdbe-3239-4e81-a5dc-4c777290647a)
 
+![FIGSHOW](https://github.com/Chenxy875/UIRE-Net/assets/121841006/3a83e0ab-13dd-4c3f-98b0-40dda054b551)
 
 
 
@@ -31,10 +31,11 @@ Backbone network:
 ![FIGPIP](https://github.com/Chenxy875/UIRE-Net/assets/121841006/5adb48cc-2887-4e12-a5f6-e2a98926a580)
 
 Feature extraction:
-![VGG16](https://github.com/Chenxy875/UIRE-Net/assets/121841006/b0dd90e4-0b2f-4449-b79b-ecb747c053ed)
+![VGG16](https://github.com/Chenxy875/UIRE-Net/assets/121841006/c0c2df7d-e1da-4e02-a875-aebfa8de048b)
 
 Ablation results:
-![ablation](https://github.com/Chenxy875/UIRE-Net/assets/121841006/e6d2fd5f-fce7-409c-bdcf-0a94e9f3e050)
+
+![ablation](https://github.com/Chenxy875/UIRE-Net/assets/121841006/40466533-6a81-48f7-9f8d-e125b3b80f86)
 
 <img width="1106" alt="brightness" src="https://github.com/Chenxy875/UIRE-Net/assets/121841006/e2824d09-2963-4c88-9421-116d29df93a5">
 
