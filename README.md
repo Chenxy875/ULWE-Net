@@ -1,5 +1,5 @@
-# UIRE-Net
-The code of Paper "Vision-based Estimation of Worker Pose in Low-Light Conditions on Construction Sites".
+# ULWE-Net
+The code of Paper "Unsupervised Low-light Worker Ergonomics Assessment Net (ULWE-Net)".
 
 The implementation is for non-commercial use only.
 
