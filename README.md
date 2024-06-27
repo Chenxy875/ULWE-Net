@@ -19,10 +19,6 @@ The script will process the images in the folders of "test" folder and the resul
 (The training code will be given after the acceptance of the article)
 
 
-Result:
-
-
-![FIGSHOW](https://github.com/Chenxy875/UIRE-Net/assets/121841006/3a83e0ab-13dd-4c3f-98b0-40dda054b551)
 
 3D pose estimation and ergonomic assessment：
 
@@ -40,6 +36,10 @@ Enhanced：
 
 https://github.com/Chenxy875/ULWE-Net/assets/121841006/f9711e73-695e-4f9e-b51e-8596a3366009
 
+Result:
+
+
+![FIGSHOW](https://github.com/Chenxy875/UIRE-Net/assets/121841006/3a83e0ab-13dd-4c3f-98b0-40dda054b551)
 
 
 
