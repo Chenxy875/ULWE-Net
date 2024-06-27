@@ -27,7 +27,13 @@ Result:
 3D pose estimation and ergonomic assessment：
 
 Lowlight：
-https://github.com/Chenxy875/ULWE-Net/assets/121841006/27603f1b-018f-4e8e-b59b-eda3b696d740
+
+
+
+https://github.com/Chenxy875/ULWE-Net/assets/121841006/a8da92c2-9784-4661-8528-fba1692d5e8e
+
+
+
 
 Enhanced：
 
