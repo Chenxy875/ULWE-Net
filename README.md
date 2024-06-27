@@ -31,7 +31,9 @@ https://github.com/Chenxy875/ULWE-Net/assets/121841006/27603f1b-018f-4e8e-b59b-e
 
 Enhanced：
 
-https://github.com/Chenxy875/ULWE-Net/assets/121841006/92515798-667e-4715-bb2b-ef5e8aa91498
+
+https://github.com/Chenxy875/ULWE-Net/assets/121841006/f9711e73-695e-4f9e-b51e-8596a3366009
+
 
 
 
