@@ -18,7 +18,7 @@ The script will process the images in the folders of "test" folder and the resul
 
 (The training code will be given after the acceptance of the article)
 
-
+We show some examples(darkpose with annotation) on https://hkustconnect-my.sharepoint.com/:f:/g/personal/xchengl_connect_ust_hk/EtszCastNjJMqFqvzmFBqxEBU1uwcU29QO8vh2haTCId8g?e=5nIFKA
 
 3D pose estimation and ergonomic assessment：
 
