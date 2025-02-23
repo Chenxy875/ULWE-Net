@@ -54,12 +54,6 @@ https://github.com/Chenxy875/ULWE-Net/assets/121841006/eacc5c74-4523-4b76-b907-c
 
 
 
-Result:
-
-
-![FIGSHOW](https://github.com/Chenxy875/UIRE-Net/assets/121841006/3a83e0ab-13dd-4c3f-98b0-40dda054b551)
-
-
 
 You  can find the low-light construction dataset in google driven (It's coming!). 
 
