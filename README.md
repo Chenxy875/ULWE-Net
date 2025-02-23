@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/09ebc74a-3243-41b0-bb65-6ad92d28ca1d
 # ULWE-Net
 The code of Paper "Unsupervised Low-light Worker Ergonomics Assessment Net (ULWE-Net)".
 
@@ -27,7 +29,7 @@ Specific case of ergonomics assessment for low-light construction worker
 
 
 
-https://github.com/user-attachments/assets/f15a3e85-fc9e-4b75-8bf3-faa389a434ef
+https://github.com/user-attachments/assets/87905b88-4049-4586-811b-daacf80aafcb
 
 
 
