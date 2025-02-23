@@ -20,6 +20,15 @@ The script will process the images in the folders of "test" folder and the resul
 
 We show some examples(darkpose with annotation) on https://hkustconnect-my.sharepoint.com/:f:/g/personal/xchengl_connect_ust_hk/EtszCastNjJMqFqvzmFBqxEBU1uwcU29QO8vh2haTCId8g?e=5nIFKA
 
+
+Specific case of ergonomics assessment for low-light construction worker 
+
+
+
+https://github.com/user-attachments/assets/ebd00ab6-e2c5-477d-97b2-a60bc4930112
+
+
+
 3D pose estimation and ergonomic assessment：
 
 Lowlight：
