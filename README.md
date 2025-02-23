@@ -25,7 +25,9 @@ Specific case of ergonomics assessment for low-light construction worker
 
 
 
-https://github.com/user-attachments/assets/ebd00ab6-e2c5-477d-97b2-a60bc4930112
+
+https://github.com/user-attachments/assets/e446f376-d041-426a-afad-ecd1fd3bc504
+
 
 
 
