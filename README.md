@@ -1,5 +1,5 @@
 
-https://github.com/user-attachments/assets/09ebc74a-3243-41b0-bb65-6ad92d28ca1d
+
 # ULWE-Net
 The code of Paper "Unsupervised Low-light Worker Ergonomics Assessment Net (ULWE-Net)".
 
