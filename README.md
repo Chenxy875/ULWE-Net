@@ -1,7 +1,7 @@
 
 
-# ULWE-Net
-The code of Paper "Unsupervised Low-light Worker Ergonomics Assessment Net (ULWE-Net)".
+# ULL-WEAS
+The code of Paper "Unsupervised Low-light Worker Ergonomics Assessment System".
 
 The implementation is for non-commercial use only.
 
